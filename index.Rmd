@@ -1,0 +1,21 @@
+---
+title: "Statistics Graduate Student Union"
+description: |
+  Welcome to the website of Graduate Student Union at the Department of Statistical Sciences at the University of Toronto.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## News
+**April 11, 2022:** The 12th annual Statistics Student Research Day will be held in a hybrid format this year on May 25th, 2022. For information about the event, click [here](https://sgsu-uoft.github.io/ResearchDay2022/)
+
+<center>
+<div class "layout-chunk">
+<img align="center" src="dept_logo.png" width="500" alt="Logo of the Department of Statistical Sciences at the University of Toronto">
+</div>
+</center>
+

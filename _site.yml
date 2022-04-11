@@ -1,0 +1,17 @@
+name: "SGSU-UofT.github.io"
+title: "SGSU"
+description: |
+  SGSU Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "People"
+      href: people.html
+    - text: "Research Day 2022"
+      href: https://sgsu-uoft.github.io/ResearchDay2022/
+output: distill::distill_article
+theme: dept_theme.css
