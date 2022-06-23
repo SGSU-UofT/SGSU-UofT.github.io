@@ -6,8 +6,14 @@ title: "People"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## 2022-23 Team
+President: Liam Welsh \
+Remaining roles to be announced by September 2022.
 
-### 2021-22 Team
+<br>
+
+## Past teams
+### 2021-22
 President: Emma Kroell \
 Treasurer: Madhu Gunasingam \
 First Year Representative: Kathleen Miao \

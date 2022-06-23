@@ -11,7 +11,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ## News
-**April 11, 2022:** The 12th annual Statistics Student Research Day will be held this year on May 25th, 2022. For information about the event, click [here](https://sgsu-uoft.github.io/ResearchDay2022/)
+**June 22, 2022:** Liam Welsh has been elected President of the SGSU for the 2022-23 academic year. Liam will begin his term in July. 
+
+**April 11, 2022:** The 12th annual Statistics Student Research Day will be held this year on May 25th, 2022. For information about the event, click [here](https://sgsu-uoft.github.io/ResearchDay2022/).
 
 <center>
 <div class "layout-chunk">
