@@ -9,10 +9,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ## 2022-23 Team
 President: Liam Welsh \
 Vice-President: Emily Somerset \
+Vice-President, Internal: Kathleen Miao \
 Secretary: Morris Greenberg \
 Treasurer: Emma Kroell \
-Social Coordinator: Kathleen Miao \
 Academic Liaison: Vedant Choudhary \
+First Year Representative: Mandy Yao \
+MSc Representative: Alexander Valencia \
 
 <br>
 
