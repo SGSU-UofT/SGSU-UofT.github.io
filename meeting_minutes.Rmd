@@ -3,5 +3,7 @@ title: "Meeting Minutes"
 ---
 
 ## 2022-2023
+Whenever student government meets, we will post notes taken by the secretary in the meeting. Please find below all notes taken since the start of the 2022-2023 academic year:
+
 [Friday, September 9, 2022](./minutes/Minutes_2022_09_09.txt) \
 [Friday, September 16, 2022, Annual General Meeting](./minutes/Minutes_2022_09_16.txt) \
