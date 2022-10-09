@@ -1,0 +1,7 @@
+---
+title: "Meeting Minutes"
+---
+
+## 2022-2023
+[Friday, September 9, 2022](./minutes/Minutes_2022_09_09.txt) \
+[Friday, September 16, 2022, Annual General Meeting](./minutes/Minutes_2022_09_16.txt) \
