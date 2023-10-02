@@ -6,7 +6,7 @@ title: "About"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-The Statistics Graduate Student Union is a student group at the University of Toronto which represents graduate students (MSc and PhD) in the Department of Statistical Sciences. We organize events for our graduate students and represent their interests to the university. We have organized the annual Statistics Student Research Day, jointly with the Department, for the past 12 years. 
+The Statistics Graduate Student Union is a student group at the University of Toronto which represents graduate students (MSc and PhD) in the Department of Statistical Sciences. We organize events for our graduate students and represent their interests to the university. We have organized the annual Statistics Student Research Day, jointly with the Department, for the past 13 years. 
 
 ## Contact
 
