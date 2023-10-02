@@ -13,6 +13,8 @@ navbar:
       href: people.html
     - text: "Meeting Notes"
       href: meeting_minutes.html
+    - text: "Reports"
+      href: reports.html
     - text: "Research Day 2022"
       href: https://sgsu-uoft.github.io/ResearchDay2022/
 output: distill::distill_article

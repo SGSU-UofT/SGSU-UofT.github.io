@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ## News
-**September 29, 2023:** Liam Welsh has been elected President of the SGSU for the 2023-24 academic year. Mandy will begin his term in July. 
+**September 16, 2023:** Mandy Yao has been elected President of the SGSU for the 2023-24 academic year. 
 
 **June 22, 2022:** Liam Welsh has been elected President of the SGSU for the 2022-23 academic year. Liam will begin his term in July. 
 

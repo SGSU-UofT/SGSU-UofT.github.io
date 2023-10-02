@@ -6,7 +6,20 @@ title: "People"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## 2022-23 Team
+## 2023-24 Team
+President: Mandy Yao \
+Vice-President: Yovna Junglee \
+Vice-President, Events: Marco Antonio Gallegos Herrada \
+Secretary: Pak Hop Chan \
+Treasurer: Kathleen Miao \
+Academic Liaison: Konstantinos Christopher Tsiolis \
+First Year Representative: Maggie Zhai \
+MSc Representative: Bernard Miskic \
+
+<br>
+
+## Past teams
+### 2022-23 Team
 President: Liam Welsh \
 Vice-President: Emily Somerset \
 Vice-President, Internal: Kathleen Miao \
@@ -16,10 +29,7 @@ Academic Liaison: Vedant Choudhary \
 First Year Representative: Mandy Yao \
 MSc Representative: Alexander Valencia \
 
-<br>
-
-## Past teams
-### 2021-22
+### 2021-22 Team
 President: Emma Kroell \
 Treasurer: Madhu Gunasingam \
 First Year Representative: Kathleen Miao \
