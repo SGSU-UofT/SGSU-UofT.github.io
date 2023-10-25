@@ -8,7 +8,8 @@ site: distill::distill_website
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
+## Coming events
+**November 2, 2023 5:30pm:** Halloween movie party night
 
 ## News
 **September 16, 2023:** Mandy Yao has been elected President of the SGSU for the 2023-24 academic year. Mandy begins her term immediately.
@@ -16,6 +17,11 @@ knitr::opts_chunk$set(echo = FALSE)
 **June 22, 2022:** Liam Welsh has been elected President of the SGSU for the 2022-23 academic year. Liam will begin his term in July. 
 
 **April 11, 2022:** The 12th annual Statistics Student Research Day will be held this year on May 25th, 2022. For information about the event, click [here](https://sgsu-uoft.github.io/ResearchDay2022/).
+
+## Past events
+**October 19, 2023 3:30pm:** Pancake day
+
+**September 30, 2023 2:00pm:** Park day
 
 <center>
 <div class "layout-chunk">
