@@ -35,7 +35,7 @@ htmltools::includeHTML("slideshow.html")
 
 ## Coming events
 
-**April 26, 2024:** Research day
+
 
 ## News
 **September 16, 2023:** Mandy Yao has been elected President of the SGSU for the 2023-24 academic year. Mandy begins her term immediately.
@@ -45,6 +45,18 @@ htmltools::includeHTML("slideshow.html")
 **April 11, 2022:** The 12th annual Statistics Student Research Day will be held this year on May 25th, 2022. For information about the event, click [here](https://sgsu-uoft.github.io/ResearchDay2022/).
 
 ## Past events
+
+**July 22, 2024 3:14pm** Pi approximation day
+
+**July 6, 2024 2:00pm** Beach day
+
+**May 17, 2024 5:00pm** Board games night
+
+**April 26, 2024:** Research day
+
+**March 14, 2024 1:00pm** Pie day
+
+**March 13, 2024 5:00pm** Ice cream trip
 
 **March 1, 2024 5:30pm** Board games night
 
