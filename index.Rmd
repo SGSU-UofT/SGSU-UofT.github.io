@@ -31,13 +31,15 @@ library(htmltools)
 htmltools::includeHTML("slideshow.html")
 ```
 
-<iframe src="https://calendar.google.com/calendar/embed?height=450&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&showTitle=0&showTabs=1&src=c2dzdWRvc3NAZ21haWwuY29t&src=ZW4uY2FuYWRpYW4jaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%230B8043" style="border-width:0" width="600" height="450" frameborder="0" scrolling="no"></iframe>
+<!-- <iframe src="https://calendar.google.com/calendar/embed?height=450&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&showTitle=0&showTabs=1&src=c2dzdWRvc3NAZ21haWwuY29t&src=ZW4uY2FuYWRpYW4jaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%230B8043" style="border-width:0" width="600" height="450" frameborder="0" scrolling="no"></iframe> -->
 
 ## Coming events
 
 
 
 ## News
+**September 15, 2024:** Konstantinos Christopher Tsiolis has been elected President of the SGSU for the 2024-25 academic year. KC begins his term immediately.
+
 **September 16, 2023:** Mandy Yao has been elected President of the SGSU for the 2023-24 academic year. Mandy begins her term immediately.
 
 **June 22, 2022:** Liam Welsh has been elected President of the SGSU for the 2022-23 academic year. Liam will begin his term in July. 
@@ -45,6 +47,8 @@ htmltools::includeHTML("slideshow.html")
 **April 11, 2022:** The 12th annual Statistics Student Research Day will be held this year on May 25th, 2022. For information about the event, click [here](https://sgsu-uoft.github.io/ResearchDay2022/).
 
 ## Past events
+
+**September 14, 2024 2:00pm** Park day
 
 **July 22, 2024 3:14pm** Pi approximation day
 
