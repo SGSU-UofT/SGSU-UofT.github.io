@@ -4,7 +4,7 @@ title: "Meeting Minutes"
 ## 2024-2025
 Please find below all notes taken since the start of the 2024-2025 academic year:
 
-[Friday, September 27th, 2024, Anual General Meeting](./Minutes_2024_09_27.txt)
+[Friday, September 27th, 2024, Anual General Meeting](./minutes/Minutes_2024_09_27.txt)
 
 ## 2023-2024
 Whenever student government meets, we will post notes taken by the secretary in the meeting. Please find below all notes taken since the start of the 2023-2024 academic year:
