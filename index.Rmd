@@ -35,7 +35,7 @@ htmltools::includeHTML("slideshow.html")
 
 ## Coming events
 
-**April 25, 2025:** We look forward to seeing you at Research day! See this year's program [here]().
+**April 25, 2025:** We look forward to seeing you at Research day! See this year's program and more information about the event [here](https://sgsu-uoft.github.io/ResearchDay2025/).
 
 ## News
 **September 15, 2024:** Konstantinos Christopher Tsiolis has been elected President of the SGSU for the 2024-25 academic year. KC begins his term immediately.
