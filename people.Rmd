@@ -7,7 +7,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## 2025-26 Team
-President: Luis Sierra Muntané \
+President: [Luis Sierra Muntané](https://luis-sierra-muntane.github.io) \
 Treasurer: Bernard Miskic \
 Vice-President, Internal: Elijah French \
 Vice-President, Events: Leo Watson \
