@@ -6,7 +6,20 @@ title: "People"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## 2024-25 Team
+## 2025-26 Team
+President: Luis Sierra Muntané \
+Treasurer: Bernard Miskic \
+Vice-President, Internal: Elijah French \
+Vice-President, Events: Leo Watson \
+Vice-President, Academic: Vinky Wang \
+Secretary: Luis Sierra Muntané \
+First Year Representative: Pat Chimtanoo \
+MSc Representative: Mahdi Zamani \
+
+<br>
+
+## Past teams
+### 2024-25 Team
 President: Konstantinos Christopher Tsiolis \
 Vice-President, Internal: Elijah French \
 Vice-President, Academic: Mandy Yao \
@@ -16,9 +29,6 @@ Treasurer: Pak Hop Chan \
 First Year Representative: Leo Watson \
 MSc Representative: Bushra Haque \
 
-<br>
-
-## Past teams
 ### 2023-24 Team
 President: Mandy Yao \
 Vice-President: Yovna Junglee \
