@@ -5,6 +5,8 @@ title: "Meeting Minutes"
 ## 2025-2026
 Please find below all notes taken since the start of the 2025-2026 academic year:
 
+[Wednesday, November 5th, 2025, General Meeting](./minutes/Minutes_2025_11_05.txt)
+
 [Wednesday, October 1st, 2025, Annual General Meeting](./minutes/Minutes_2025_10_01.txt)
 
 ## 2024-2025
