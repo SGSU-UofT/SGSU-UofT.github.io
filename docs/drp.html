@@ -2460,16 +2460,25 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<p>Welcome! This is the official website of the Directed Reading Program of the Department of Statistics at UofT.</p>
+<p>Welcome! This is the official website of the Directed Reading Program of the Department of Statistics at UofT. During your statistics education,</p>
 <style>
 /* Style the summary (the clickable dropdown header) */
-details summary {
+details.type1 summary {
   background-color: #007acc; /* blue */
   color: white;
   padding: 8px;
   border-radius: 5px;
   cursor: pointer;
   font-weight: bold;
+}
+
+details.type2 summary {
+  background-color: #fce4ec;
+  color: #880e4f;
+  font-weight: bold;
+  padding: 0.4em;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
 /* Add hover effect */
@@ -2486,38 +2495,69 @@ details[open] {
   border-radius: 5px;
 }
 </style>
-<details>
+<details class="type1">
 <summary>
 Who is eligble to participate?
 </summary>
 All UofT undergraduate students who are broadly interested in Statistics are eligible. Although, Statistics majors/specialists will be prioritized in the application process.
 </details>
-<details>
+<details class="type1">
 <summary>
 What’s expected from a DRP student?
 </summary>
-Students will be paired with a mentor who will guide them through the reading project. The expectation is that students will conduct independent reading and research, having weekly meeting with their mentor during the winter semester. At the end of the program, students will submit a short write-up summarizing and explaining what they have learned, with the possibility of giving a short presentation.
+Students will be paired with a mentor who will guide them through the reading project. The expectation is that students will conduct independent reading and research, having weekly meetings with their mentor during the winter semester. At the end of the program, students will submit a short write-up summarizing and explaining what they have learned, with the possibility of giving a short presentation.
 </details>
-<details>
+<details class="type1">
 <summary>
-Are there any prerequisites required for the DRP?
+Are there any prerequisites required for the SDRP?
 </summary>
-Although there are no formal prerequisites for the DRP, different mentors may require proficiency in specific topics and will informally suggest prerequisite classes. It is generally assumed that students are comfortable with linear algebra, basic analysis, probability and estimation theory.
+Although there are no formal prerequisites for the SDRP, different mentors may require proficiency in specific topics and will informally suggest prerequisite classes. It is generally assumed that students are comfortable with linear algebra, basic analysis, probability and estimation theory.
 </details>
-<details>
+<details class="type1">
 <summary>
 Can I choose the topic I want to learn about?
 </summary>
-Even though the listed topics are guaranteed to be taken up by one of the mentors, we may consider your own personal proposals if you clearly state them in your application.
+Even though the listed topics were chosen specifically as the mentors’ specialties, we may consider your own personal proposals if you are motivated and clearly state them in your application.
 </details>
 <p><a href=""><strong>We are now accepting applications</strong></a></p>
 <p>This DRP is an offshoot of the original program UChicago’s math department and extends a growing <a href="https://sites.google.com/view/drp-network/">DRP Network</a>.</p>
 <h3 id="projects-for-the-2026-session">Projects for the 2026 Session</h3>
+<details class="type2">
+<summary>
+Topics in Optimal Transport
+</summary>
+Mentor: KC Tsiolis. Suggested prerequisites: strong analysis skills.
+</details>
+<details class="type2">
+<summary>
+Topics in Concentration Inequalities
+</summary>
+Mentor: Luis Sierra. Suggested prerequisites: strong knowledge of probability.
+</details>
+<details class="type2">
+<summary>
+An introduction to optimization on smooth manifolds
+</summary>
+Mentor: KC Tsiolis. Suggested prerequisites: analysis and optimization with some geometric course.
+</details>
+<details class="type2">
+<summary>
+Admissible Estimators, Recurrent Diffusions, and Insoluble Boundary Value Problems
+</summary>
+Mentor: Luis Sierra. Suggested prerequisites: strong analysis skills and some exposure to combinatorics.
+</details>
+<details class="type2">
+<summary>
+Free Probability to understand random matrices
+</summary>
+Mentor: Luis Sierra. Suggested prerequisites: strong analysis and probability skills and a confident command of linear algebra.
+</details>
 <ul>
-<li>Topics in Optimal Transport</li>
-<li>Topics in Concentration Inequalities</li>
-<li>Admissible Estimators, Recurrent Diffusions, and Insoluble Boundary Value Problems</li>
-<li>Free Probability to understand random matrices</li>
+<li>Inverse Problems and Data Assimilation: A Machine Learning Approach</li>
+<li>Statistical Rethinking: A Bayesian Course with Examples in R and Stan</li>
+<li>Empirical Bayes: From Herbert Robbins to Modern Theory and Applications</li>
+<li>Flow Matching Guide to Code</li>
+<li>Diffusion Models: A Comprehensive Survey of Methods and Applications</li>
 </ul>
 <h4 id="contact">Contact</h4>
 <p>luis.sierra[at]mail[dot]utoronto[dot]ca</p>
