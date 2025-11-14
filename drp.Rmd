@@ -68,18 +68,17 @@ Can I choose the topic I want to learn about?
 Even though the listed topics were chosen specifically as the mentors' specialties, we may consider your own personal proposals if you are motivated and clearly state them in your application.
 </details>
 
-[**We are now accepting applications!**]()
+[**We are now accepting applications!**](https://docs.google.com/forms/d/e/1FAIpQLSfS9fpcPjpz5gnadW9ia5pH0Q9iARNW1NUWYQhdnZYQ2lpxKg/viewform?usp=header)
 
 
 
-This DRP is an offshoot of the original program UChicago's math department and extends a growing [DRP Network](https://sites.google.com/view/drp-network/).
+This DRP is an offshoot of the original program at UChicago's math department and extends a growing [DRP Network](https://sites.google.com/view/drp-network/).
 
 
 ### Projects for the 2026 Session
 
 <details class="type2"><summary>Topics in Optimal Transport</summary>Mentor: [KC Tsiolis](https://kctsiolis.github.io/). Suggested prerequisites: strong analysis skills.</details>
 <details class="type2"><summary>Topics in Concentration Inequalities</summary>Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong knowledge of probability.</details>
-<details class="type2"><summary>An introduction to optimization on smooth manifolds</summary>Mentor: [KC Tsiolis](https://kctsiolis.github.io/). Suggested prerequisites: analysis and optimization with some geometric course.</details>
 <details class="type2"><summary>How is the admissibility of an estimator related to recurrent diffusions?</summary>Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong analysis skills and some exposure to combinatorics. In particular, knowledge of Markov chains is a big plus.</details>
 <details class="type2"><summary>Topics in Conformal Prediction</summary>Mentor: [Leo Watson](https://leo-watson.github.io/). Suggested prerequisites: Working knowledge of probability (STA347 equivalent), Bayesian statistics (STA365 equivalent)</details>
 <details class="type2"><summary>Free Probability to understand random matrices</summary>Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong analysis and probability skills and a confident command of linear algebra.</details>
