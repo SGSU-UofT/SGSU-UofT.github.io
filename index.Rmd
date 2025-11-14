@@ -1,7 +1,7 @@
 ---
 title: "STATISTICS GRADUATE STUDENT UNION"
 description: |
-  Welcome to the website of Graduate Student Union at the Department of Statistical Sciences at the University of Toronto.
+  Welcome to the website of the Statistics Graduate Student Union! You can find us at the Department of Statistical Sciences of the University of Toronto.
 site: distill::distill_website
 output:
   distill::distill_article:
