@@ -77,7 +77,7 @@ This DRP is an offshoot of the original program at UChicago's math department an
 
 ### Projects for the 2026 Session
 
-<details class="type2"><summary>Topics in Optimal Transport</summary>Mentor: [KC Tsiolis](https://kctsiolis.github.io/). Suggested prerequisites: strong analysis skills.</details>
+<details class="type2"><summary>Topics in Optimal Transport</summary>Mentor: [KC Tsiolis](https://kctsiolis.github.io/). Suggested prerequisites: strong probability skills and ideally some knowledge of measure theory.</details>
 <details class="type2"><summary>Topics in Concentration Inequalities</summary>Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong knowledge of probability.</details>
 <details class="type2"><summary>How is the admissibility of an estimator related to recurrent diffusions?</summary>Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong analysis skills and some exposure to combinatorics. In particular, knowledge of Markov chains is a big plus.</details>
 <details class="type2"><summary>Topics in Conformal Prediction</summary>Mentor: [Leo Watson](https://leo-watson.github.io/). Suggested prerequisites: Working knowledge of probability (STA347 equivalent), Bayesian statistics (STA365 equivalent)</details>
