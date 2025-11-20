@@ -17,6 +17,11 @@ details.type1 summary {
   font-weight: bold;
 }
 
+/* Add hover effect */
+details.type1 summary:hover {
+  background-color: #365dbf;
+}
+
 details.type2 summary {
   background-color: #fce4ec;
   color: #880e4f;
@@ -26,9 +31,22 @@ details.type2 summary {
   cursor: pointer;
 }
 
-/* Add hover effect */
-details summary:hover {
-  background-color: #005fa3;
+details.type2 summary:hover {
+  color: #c91019;
+}
+
+details.type2 summary:hover {
+  background-color: #e6555c;
+}
+
+details.type2 .highlight {
+  font-size: 17px;
+  color: #c0392b;
+  font-weight: bold;
+  background: #fff3f3;
+  padding: 5px;
+  border-left: 3px solid #c0392b;
+  margin: 10px 0;
 }
 
 /* Style the content inside the dropdown */
@@ -38,6 +56,11 @@ details[open] {
   margin-top: 5px;
   background-color: #f0f8ff;
   border-radius: 5px;
+}
+
+details.type2 .content {
+  font-size: 14px;
+  color: #444;
 }
 </style>
 
@@ -76,23 +99,56 @@ This DRP is an offshoot of the original program at UChicago's math department an
 
 ### Projects for the 2026 Session
 
-<details class="type2"><summary>Topics in Optimal Transport</summary>Mentor: [KC Tsiolis](https://kctsiolis.github.io/). Suggested prerequisites: strong probability skills and ideally some knowledge of measure theory.</details>
-<details class="type2"><summary>Topics in Concentration Inequalities</summary>Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong knowledge of probability.</details>
-<details class="type2"><summary>How is the admissibility of an estimator related to recurrent diffusions?</summary>Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong analysis skills and some exposure to combinatorics. In particular, knowledge of Markov chains is a big plus.</details>
-<details class="type2"><summary>Causal Effect Identification & Estimation</summary>Mentor: [Yaqi Shi](https://www.linkedin.com/in/selina-yaqi-shi/?originalSubdomain=ca). Suggested prerequisites: basic linear regression, probability, and STA314 would be preferred.</details>
-<details class="type2"><summary>Topics in Conformal Prediction</summary>Mentor: [Leo Watson](https://leo-watson.github.io/). Suggested prerequisites: Working knowledge of probability (STA347 equivalent), Bayesian statistics (STA365 equivalent).</details>
-<details class="type2"><summary>Mean-field analysis of neural network training dynamics</summary>Mentor: [KC Tsiolis](https://kctsiolis.github.io/). Suggested prerequisites: analysis, probability, and an introductory Machine Learning course (e.g. STA314).</details>
-<details class="type2"><summary>Theory of feature learning in neural networks</summary>Mentor: [KC Tsiolis](https://kctsiolis.github.io/). Suggested prerequisites: analysis, probability, and an introductory Machine Learning course (e.g. STA314).</details>
-<details class="type2"><summary>Free Probability to understand random matrices</summary>Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong analysis and probability skills and a confident command of linear algebra.</details>
-<details class="type2"><summary>Inverse Problems and Data Assimilation: A Machine Learning Approach</summary>Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: probability (STA257), linear algebra (MAT223/224), multivariable calculus (MAT237), matrix calculus; basic familiarity with optimization and machine learning concepts is a plus.</details>
-<details class="type2"><summary>Topics in Experimental Design</summary>Mentor: [Huanlin Mao](https://www.linkedin.com/in/hlmao0919/?originalSubdomain=ca). Suggested prerequisites: analysis, probability, and introductory statistical decision theory.</details>
-<details class="type2"><summary>Statistical Rethinking: A Bayesian Course with Examples in R and Stan</summary>Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: intro probability (STA237/257), linear regression (STA302); basic Bayesian stats (STA365) or computational stats (STA410) is not required but a plus.</details>
-<details class="type2"><summary>Empirical Bayes: From Herbert Robbins to Modern Theory and Applications</summary>Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: rigorous probability and statistics (STA347&STA355); mathematical statistics (STA452) is a plus.</details>
-<details class="type2"><summary>Flow Matching Guide to Code</summary>Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: ODEs (MAT244), probability (STA257), PyTorch, familiarity with deep learning (STA414/CSC413).</details>
-<details class="type2"><summary>Diffusion Models: A Comprehensive Survey of Methods and Applications</summary>Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: probability (STA257), multivariate calculus (MAT237), optimization, familiarity with stochastic process and/or deep learning (STA414/CSC413); generative modeling (flows and VAEs) is a plus.</details>
-<details class="type2"><summary>Dimensionality reduction</summary>Mentor: [Arian Hashemzadeh](https://arian-hashemzadeh.github.io/).</details>
-<details class="type2"><summary>Topics in Causal Inference</summary>Mentor: [Arian Hashemzadeh](https://arian-hashemzadeh.github.io/).</details>
-<details class="type2"><summary>Statistical Mechanics models for Machine Learning</summary>Mentor: [Alex Valencia](https://www.linkedin.com/in/alexandervalencia-s/?originalSubdomain=ca). Suggested prerequisites: analysis and probability, with some knowledge of statistical/machine learning</details>
+<details class="type2"><summary>Topics in Optimal Transport</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [KC Tsiolis](https://kctsiolis.github.io/). Suggested prerequisites: strong probability skills and ideally some knowledge of measure theory.</p></div></details>
+
+<details class="type2"><summary>Topics in Concentration Inequalities</summary>
+<div class="content"><p>The study of random fluctuations can be made explicit by constructing bounds on the probability that some function differs from its mean by more than a certain amount. If a function of many independent random variables does not depend too much on any of the specific variables then it is concentrated in the sense that, with high probability, it is close to its expected value. This way of thinking has been extremely influential in areas such as statistics, machine learning, learning theory, statistical mechanics or information theory.</p><p class="highlight">Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong knowledge of probability.</p></div></details>
+
+<details class="type2"><summary>How is the admissibility of an estimator related to recurrent diffusions?</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong analysis skills and some exposure to combinatorics. In particular, knowledge of Markov chains is a big plus.</p></div></details>
+
+<details class="type2"><summary>Causal Effect Identification & Estimation</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Yaqi Shi](https://www.linkedin.com/in/selina-yaqi-shi/?originalSubdomain=ca). Suggested prerequisites: basic linear regression, probability, and STA314 would be preferred.</p></div></details>
+
+<details class="type2"><summary>Topics in Conformal Prediction</summary>
+<div class="content"><p>How good are your predictive models? Conformal prediction (CP) is a modern predictive inference tool for high-stakes prediction problems like tumor segmentation and election polling. It has garnered significant interest in the statistics and machine learning communities for its finite sample distribution-free guarantees. In this DRP, we will read the core papers in the area and then branch into advanced subtopics tailored to the student’s interests.</p><p class="highlight">Mentor: [Leo Watson](https://leo-watson.github.io/). Suggested prerequisites: Working knowledge of probability (STA347 equivalent), Bayesian statistics (STA365 equivalent).</p></div></details>
+
+<details class="type2"><summary>Mean-field analysis of neural network training dynamics</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [KC Tsiolis](https://kctsiolis.github.io/). Suggested prerequisites: analysis, probability, and an introductory Machine Learning course (e.g. STA314).</p></div></details>
+
+<details class="type2"><summary>Theory of feature learning in neural networks</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [KC Tsiolis](https://kctsiolis.github.io/). Suggested prerequisites: analysis, probability, and an introductory Machine Learning course (e.g. STA314).</p></div></details>
+
+<details class="type2"><summary>Free Probability to understand random matrices</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong analysis and probability skills and a confident command of linear algebra.</p></div></details>
+
+<details class="type2"><summary>Inverse Problems and Data Assimilation: A Machine Learning Approach</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: probability (STA257), linear algebra (MAT223/224), multivariable calculus (MAT237), matrix calculus; basic familiarity with optimization and machine learning concepts is a plus.</p></div></details>
+
+<details class="type2"><summary>Topics in Experimental Design</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Huanlin Mao](https://www.linkedin.com/in/hlmao0919/?originalSubdomain=ca). Suggested prerequisites: analysis, probability, and introductory statistical decision theory.</p></div></details>
+
+<details class="type2"><summary>Statistical Rethinking: A Bayesian Course with Examples in R and Stan</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: intro probability (STA237/257), linear regression (STA302); basic Bayesian stats (STA365) or computational stats (STA410) is not required but a plus.</p></div></details>
+
+<details class="type2"><summary>Empirical Bayes: From Herbert Robbins to Modern Theory and Applications</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: rigorous probability and statistics (STA347&STA355); mathematical statistics (STA452) is a plus.</p></div></details>
+
+<details class="type2"><summary>Flow Matching Guide to Code</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: ODEs (MAT244), probability (STA257), PyTorch, familiarity with deep learning (STA414/CSC413).</p></div></details>
+
+<details class="type2"><summary>Diffusion Models: A Comprehensive Survey of Methods and Applications</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: probability (STA257), multivariate calculus (MAT237), optimization, familiarity with stochastic process and/or deep learning (STA414/CSC413); generative modeling (flows and VAEs) is a plus.</p></div></details>
+
+<details class="type2"><summary>Dimensionality reduction</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Arian Hashemzadeh](https://arian-hashemzadeh.github.io/).</p></div></details>
+
+<details class="type2"><summary>Topics in Causal Inference</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Arian Hashemzadeh](https://arian-hashemzadeh.github.io/).</p></div></details>
+
+<details class="type2"><summary>Statistical Mechanics models for Machine Learning</summary>
+<div class="content"><p></p><p class="highlight">Mentor: [Alex Valencia](https://www.linkedin.com/in/alexandervalencia-s/?originalSubdomain=ca). Suggested prerequisites: analysis and probability, with some knowledge of statistical/machine learning</p></div></details>
 
 
 #### Contact
