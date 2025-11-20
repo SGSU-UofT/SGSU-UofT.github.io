@@ -33,24 +33,21 @@ details.type2 summary {
 
 details.type2 summary:hover {
   color: #c91019;
-}
-
-details.type2 summary:hover {
   background-color: #e6555c;
 }
 
 details.type2 .highlight {
   font-size: 17px;
-  color: #c0392b;
+  color: #880e4f;
   font-weight: bold;
   background: #fff3f3;
   padding: 5px;
-  border-left: 3px solid #c0392b;
+  border-left: 3px solid #880e4f;
   margin: 10px 0;
 }
 
 /* Style the content inside the dropdown */
-details[open] {
+details.type1[open] {
   border: 1px solid #007acc;
   padding: 10px;
   margin-top: 5px;
@@ -58,16 +55,24 @@ details[open] {
   border-radius: 5px;
 }
 
+details.type2[open] {
+  border: 1px solid #880e4f;
+  padding: 10px;
+  margin-top: 5px;
+  background-color: #fce4ec;
+  border-radius: 5px;
+}
+
 details.type2 .content {
   font-size: 14px;
-  color: #444;
+  color: #880e4f;
 }
 </style>
 
 
 <details class="type1">
 <summary>Who is eligible to participate?</summary>
-All UofT undergraduate students who are broadly interested in Statistics are eligible. Although, Statistics majors/specialists will be prioritized in the application process.
+All UofT undergraduate students who are broadly interested in Statistics are eligible. Although students working towards a Statistics major/specialist degree will be prioritized in the application process, we do welcome applicants from mathematics, engineering, computer science etc. with an interest in statistics.
 </details>
 
 <details class="type1">
@@ -106,7 +111,7 @@ This DRP is an offshoot of the original program at UChicago's math department an
 <div class="content"><p>The study of random fluctuations can be made explicit by constructing bounds on the probability that some function differs from its mean by more than a certain amount. If a function of many independent random variables does not depend too much on any of the specific variables then it is concentrated in the sense that, with high probability, it is close to its expected value. This way of thinking has been extremely influential in areas such as statistics, machine learning, learning theory, statistical mechanics or information theory.</p><p class="highlight">Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong knowledge of probability.</p></div></details>
 
 <details class="type2"><summary>How is the admissibility of an estimator related to recurrent diffusions?</summary>
-<div class="content"><p></p><p class="highlight">Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong analysis skills and some exposure to combinatorics. In particular, knowledge of Markov chains is a big plus.</p></div></details>
+<div class="content"><p>Admissibility is a desirable property when constructing an estimator for a random quantity. This paper by Brown shows how questions about admissibility can be translated into questions about diffusions and solving certain boundary value problems from differential equations. Interestingly, some of these mathematical problems turn out to have no solution, and this impossibility reflects situations in statistics where no uniformly best estimator exists. Our goal is to understand how this works and explore deep links between decision theory, probability, and analysis, showing how the structure of random motion can help explain when good estimators do (or don't) exist.</p><p class="highlight">Mentor: [Luis Sierra](https://luis-sierra-muntane.github.io/). Suggested prerequisites: strong analysis skills and some exposure to combinatorics. In particular, knowledge of Markov chains is a big plus.</p></div></details>
 
 <details class="type2"><summary>Causal Effect Identification & Estimation</summary>
 <div class="content"><p></p><p class="highlight">Mentor: [Yaqi Shi](https://www.linkedin.com/in/selina-yaqi-shi/?originalSubdomain=ca). Suggested prerequisites: basic linear regression, probability, and STA314 would be preferred.</p></div></details>
