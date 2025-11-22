@@ -2,7 +2,7 @@
 title: "Statistics Directed Reading Program"
 ---
 
-Welcome! This is the official website of the Statistics Directed Reading Program at UofT. Are you interested in research statistics or eager to explore a statistical topic in more depth? Looking for mentorship and the chance to study material you might not encounter in a course? Consider applying to the Directed Reading Program (DRP).
+Welcome! This is the official website of the Statistics Directed Reading Program at UofT. Are you interested in research statistics or eager to explore a statistical topic in more depth? Looking for mentorship and the chance to study material you might not encounter in a course? Then consider applying to our Directed Reading Program (DRP)!
 
 The DRP pairs undergraduate students with graduate mentors in the Department of Statistical Sciences for independent study projects that run through the winter semester. After applying, selected students are matched with mentors based on their interests and goals.
 
@@ -140,6 +140,9 @@ This DRP is an offshoot of the original program at UChicago's math department an
 
 <details class="type2"><summary>Empirical Bayes: From Herbert Robbins to Modern Theory and Applications</summary>
 <div class="content"><p></p><p class="highlight">Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: rigorous probability and statistics (STA347&STA355); mathematical statistics (STA452) is a plus.</p></div></details>
+
+<details class="type2"><summary>Current topics in Actuarial Science</summary>
+<div class="content"><p>Students will read about current research areas in actuarial science, which can include theoretical topics such as optimal (re)insurance or applied topics like fraud detection. Depending on the students' background, they will gain some practical experiences in implementation or study potential extensions.</p><p class="highlight">Mentor: [PH Chan](https://ph-chan.github.io/). Suggested prerequisites: (ACT348 or ACT351) with (STA314 or equivalent) or (MAT257 or equivalent) or (STA257 and STA261).</p></div></details>
 
 <details class="type2"><summary>Flow Matching Guide to Code</summary>
 <div class="content"><p></p><p class="highlight">Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: ODEs (MAT244), probability (STA257), PyTorch, familiarity with deep learning (STA414/CSC413).</p></div></details>
