@@ -154,10 +154,10 @@ This DRP is an offshoot of the original program at UChicago's math department an
 <div class="content"><p></p><p class="highlight">Mentor: [Yichen Ji](https://user-jiyichen.github.io/). Suggested prerequisites: probability (STA257), multivariate calculus (MAT237), optimization, familiarity with stochastic process and/or deep learning (STA414/CSC413); generative modeling (flows and VAEs) is a plus.</p></div></details>
 
 <details class="type2"><summary>Dimensionality reduction</summary>
-<div class="content"><p></p><p class="highlight">Mentor: [Arian Hashemzadeh](https://arian-hashemzadeh.github.io/).</p></div></details>
+<div class="content"><p>This project will be focused on classic dimensionality reduction techniques such as PCA, CCA, ICA and their variants.</p><p class="highlight">Mentor: [Arian Hashemzadeh](https://arian-hashemzadeh.github.io/). Suggested prerequisites: STA220 and STA257 (or similar) and knowledge of linear algebra.</p></div></details>
 
-<details class="type2"><summary>Topics in Causal Inference</summary>
-<div class="content"><p></p><p class="highlight">Mentor: [Arian Hashemzadeh](https://arian-hashemzadeh.github.io/).</p></div></details>
+<details class="type2"><summary>Topics in Causal Discovery</summary>
+<div class="content"><p>This project will involve an overview of the constraint-based and score-based causal discovery methods and their challenges.</p><p class="highlight">Mentor: [Arian Hashemzadeh](https://arian-hashemzadeh.github.io/). Suggested prerequisites: STA257 or similar, knowledge of linear algebra and introductory knowledge of graph theory.</p></div></details>
 
 <details class="type2"><summary>Statistical Mechanics models for Machine Learning</summary>
 <div class="content"><p></p><p class="highlight">Mentor: [Alex Valencia](https://www.linkedin.com/in/alexandervalencia-s/?originalSubdomain=ca). Suggested prerequisites: analysis and probability, with some knowledge of statistical/machine learning</p></div></details>
