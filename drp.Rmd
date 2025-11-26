@@ -4,7 +4,7 @@ title: "Statistics Directed Reading Program"
 
 Welcome! This is the official website of the Statistics Directed Reading Program at UofT. Are you interested in research statistics or eager to explore a statistical topic in more depth? Looking for mentorship and the chance to study material you might not encounter in a course? Then consider applying to our Directed Reading Program (DRP)!
 
-The DRP pairs undergraduate students with graduate mentors in the Department of Statistical Sciences for independent study projects that run through the winter semester. After applying, selected students are matched with mentors based on their interests and goals.
+The DRP pairs undergraduate students with graduate mentors in the Department of Statistical Sciences for independent study projects that run through the winter semester. After applying, selected students will be matched with mentors based on common interests and goals.
 
 <style>
 /* Style the summary (the clickable dropdown header) */
@@ -53,6 +53,7 @@ details.type1[open] {
   margin-top: 5px;
   background-color: #f0f8ff;
   border-radius: 5px;
+  font-size: 16px;
 }
 
 details.type2[open] {
@@ -79,7 +80,7 @@ All UofT undergraduate students who are broadly interested in Statistics are eli
 <summary>
 What's expected from a DRP student?
 </summary>
-Students will be paired with a mentor who will guide them through the reading project. The expectation is that students will conduct independent reading and research, having weekly or biweekly meetings with their mentor during the winter semester. At the end of the program, students will submit a short write-up summarizing and explaining what they have learned, with the possibility of giving a short presentation. 
+Students will be paired with a mentor who will guide them through the reading project. The expectation is that students will conduct independent reading and research, having weekly or biweekly meetings with their mentor during the winter semester, until April (exact date TBD). At the end of the program, students will submit a short write-up summarizing and explaining what they have learned, with the possibility of giving a short presentation.
 </details>
 
 <details class="type1">
@@ -160,7 +161,7 @@ This DRP is an offshoot of the original program at UChicago's math department an
 <div class="content"><p>This project will involve an overview of the constraint-based and score-based causal discovery methods and their challenges.</p><p class="highlight">Mentor: [Arian Hashemzadeh](https://arian-hashemzadeh.github.io/). Suggested prerequisites: STA257 or similar, knowledge of linear algebra and introductory knowledge of graph theory.</p></div></details>
 
 <details class="type2"><summary>Statistical Mechanics models for Machine Learning</summary>
-<div class="content"><p></p><p class="highlight">Mentor: [Alex Valencia](https://www.linkedin.com/in/alexandervalencia-s/?originalSubdomain=ca). Suggested prerequisites: analysis and probability, with some knowledge of statistical/machine learning</p></div></details>
+<div class="content"><p></p><p class="highlight">Mentor: [Alex Valencia](https://www.linkedin.com/in/alexandervalencia-s/?originalSubdomain=ca). Suggested prerequisites: analysis and probability, with some knowledge of statistical/machine learning.</p></div></details>
 
 
 #### Contact
