@@ -97,7 +97,14 @@ Can I choose the topic I want to learn about?
 Even though the listed topics were chosen specifically as the mentors' specialties, we may consider your own personal proposals if you are motivated and clearly state them in your application.
 </details>
 
-[**We are now accepting applications!**](https://forms.office.com/r/7qE19mJZPv) (Deadline **December 19th**, don't wait up!)
+<details class="type1">
+<summary>
+What is the proper way to describe the experience in your CV?
+</summary>
+Being transparent and accurate when applying to jobs/academic positions is very important for a good reputation. This program is a legitimate research experience, but it is quite modern and not all prospective employers might know about it. As such, it should be described explicitly as a *Directed Reading Program* with a graduate student mentor from the Department of Statistical Sciences of UofT. You are also welcome to include a link to this site for maximum precision.
+</details>
+
+[**Applications for the Winter 2026 session are now closed. We sincerely thank all of those who applied!**]
 
 
 This DRP is an offshoot of the original program at UChicago's math department and extends a growing [DRP Network](https://sites.google.com/view/drp-network/).
