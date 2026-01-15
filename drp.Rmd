@@ -101,7 +101,7 @@ Even though the listed topics were chosen specifically as the mentors' specialti
 <summary>
 What is the proper way to describe the experience in your CV?
 </summary>
-Being transparent and accurate when applying to jobs/academic positions is very important for a good reputation. This program is a legitimate research experience, but it is quite modern and not all prospective employers might know about it. As such, it should be described explicitly as a *Directed Reading Program* with a graduate student mentor from the Department of Statistical Sciences at UofT. You are also welcome to include a link to this site for maximum precision.
+Being transparent and accurate when applying to jobs/academic positions is very important for a good reputation. This program may be a legitimate research experience, but it is quite modern and not all prospective employers might know about it. As such, it should be described explicitly as a *Directed Reading Program* with a *graduate student mentor*, from the Department of Statistical Sciences at UofT. You are also welcome to include a link to this site for maximum precision.
 </details>
 
 [**Applications for the Winter 2026 session are now closed. We sincerely thank all of those who applied!**]
