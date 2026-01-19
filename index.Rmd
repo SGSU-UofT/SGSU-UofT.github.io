@@ -35,9 +35,9 @@ htmltools::includeHTML("slideshow.html")
 
 ## Coming events
 
-**Friday November 7, 2025** Game Night in room 9199.
+**Friday January 25, 2026** Game Night in room 9199.
 
-**November 10, 2025** Secret Santa Registration Deadline. [Join us!](https://www.elfster.com/gift-exchanges/285a33d5-cbbb-4bfd-84f0-d29c1e174bb8/?join=mjg1)
+**Monday January 19, 2026** The SGSU Chess Tournament has officially started!
 
 ## News
 
