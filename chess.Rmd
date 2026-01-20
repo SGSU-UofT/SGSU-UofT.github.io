@@ -1,0 +1,25 @@
+---
+title: "SGSU Chess Tournament Standings"
+description: |
+  Here are the current standings of the ongoing SGSU Chess Tournament.
+site: distill::distill_website
+output:
+  distill::distill_article:
+    #toc: true
+    #theme: theme.css
+---
+<style type="text/css">
+  html {
+    --title-size: 60px;
+    --title-color: #002f65;
+  }
+  h1 {
+    text-align: center;
+  }
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](./chess/round1.png)

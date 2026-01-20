@@ -37,7 +37,7 @@ htmltools::includeHTML("slideshow.html")
 
 **Friday January 25, 2026** Game Night in room 9199.
 
-**Monday January 19, 2026** The SGSU Chess Tournament has officially started!
+**Monday January 19, 2026** The [SGSU Chess Tournament](chess.html) has officially started!
 
 ## News
 
