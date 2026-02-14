@@ -22,6 +22,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](./chess/table3.png)
+![](./chess/table4.png)
 
-![](./chess/round4.png)
+![](./chess/round5.png)
