@@ -35,10 +35,6 @@ htmltools::includeHTML("slideshow.html")
 
 ## Coming events
 
-**Wednesday February 11, 2026** Pub Night at 17:30pm at W Burger Bar!
-
-**Friday January 25, 2026** Game Night in room 9199.
-
 **Monday January 19, 2026** The [SGSU Chess Tournament](chess.html) has officially started!
 
 ## News
@@ -56,6 +52,10 @@ htmltools::includeHTML("slideshow.html")
 **April 11, 2022:** The 12th annual Statistics Student Research Day will be held this year on May 25th, 2022. For information about the event, click [here](https://sgsu-uoft.github.io/ResearchDay2022/).
 
 ## Some past events
+
+**February 11, 2026** Pub Night at 17:30pm at W Burger Bar!
+
+**January 25, 2026 6:00pm** Game Night
 
 **November 7, 2025 6:00pm** Game night
 
