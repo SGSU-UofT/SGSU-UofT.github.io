@@ -35,6 +35,8 @@ htmltools::includeHTML("slideshow.html")
 
 ## Coming events
 
+**Friday April 24, 2026** Statistical Sciences Research Day [RSVP Here](https://forms.gle/kyaT44byp6ppNzwRA)
+
 **Monday January 19, 2026** The [SGSU Chess Tournament](chess.html) has officially started!
 
 ## News
