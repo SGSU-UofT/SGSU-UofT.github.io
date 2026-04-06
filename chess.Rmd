@@ -1,7 +1,7 @@
 ---
 title: "SGSU Chess Tournament Standings"
 description: |
-  Here are the current standings of the ongoing SGSU Chess Tournament.
+  Here are the results from the first edition SGSU Chess Tournament
 site: distill::distill_website
 output:
   distill::distill_article:
@@ -22,6 +22,10 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](./chess/table7.png)
+1. Luis Sierra
+2. Ismail Benchekroun (Prize Winner)
+3. Joey Hotz
 
-![](./chess/round8.png)
+![](./chess/final_standings.png)
+
+![A tense moment from the final between Ismail and Joey](./chess/chess_final.jpg)
