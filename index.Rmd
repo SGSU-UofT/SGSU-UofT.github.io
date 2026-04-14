@@ -35,11 +35,11 @@ htmltools::includeHTML("slideshow.html")
 
 ## Coming events
 
-**Friday April 24, 2026** Statistical Sciences Research Day [RSVP Here](https://forms.gle/kyaT44byp6ppNzwRA)
-
-**Monday January 19, 2026** The [SGSU Chess Tournament](chess.html) has officially started!
+**Friday April 24, 2026** Statistical Sciences [Research Day](https://sgsu-uoft.github.io/ResearchDay2026) [RSVP Here](https://forms.gle/kyaT44byp6ppNzwRA)
 
 ## News
+
+The first edition of the [SGSU Chess Tournament](chess.html) has officially concluded!
 
 **September 16, 2025:** Luis Sierra Muntané has been elected President of the SGSU for the 2025-26 academic year. Luis begins his term immediately.
 
