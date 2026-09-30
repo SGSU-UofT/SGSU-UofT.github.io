@@ -2,12 +2,14 @@
 title: "Reports"
 ---
 
-## 2023-2024
-Please find the exit reports from the 2023-24 executive team below:
+## Executive Team Exit Reports
+
+Please find the exit reports from the executive teams below:
+
+[2025-26 SGSU Executive Exit Reports](./reports/SGSU_Report_2026.pdf)
+
+[2024-25 SGSU Executive Exit Reports](./reports/SGSU_Report_2025.pdf)
 
 [2023-24 SGSU Executive Exit Reports](./reports/SGSU_Report_2024.pdf)
-
-## 2022-2023
-Please find the exit reports from the 2022-23 executive team below:
 
 [2022-23 SGSU Executive Exit Reports](./reports/SGSU_Report_2023.pdf)
