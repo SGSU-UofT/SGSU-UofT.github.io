@@ -39,6 +39,8 @@ htmltools::includeHTML("slideshow.html")
 
 ## News
 
+**September 21, 2026:** William Groff has been elected President of the SGSU for the 2026-27 academic year. William begins his term immediately.
+
 The first edition of the [SGSU Chess Tournament](chess.html) has officially concluded!
 
 **September 16, 2025:** Luis Sierra Muntané has been elected President of the SGSU for the 2025-26 academic year. Luis begins his term immediately.
