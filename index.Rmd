@@ -35,13 +35,15 @@ htmltools::includeHTML("slideshow.html")
 
 ## Coming events
 
-**Friday April 24, 2026** Statistical Sciences [Research Day](https://sgsu-uoft.github.io/ResearchDay2026) [RSVP Here](https://forms.gle/kyaT44byp6ppNzwRA)
+**November 19, 2026 3:00pm** Statistics and Mathematics Joint Student Colloquium 700 University Ave Rooms 9195/9199 (Teak)
 
 ## News
 
 **September 21, 2026:** William Groff has been elected President of the SGSU for the 2026-27 academic year. William begins his term immediately.
 
 The first edition of the [SGSU Chess Tournament](chess.html) has officially concluded!
+
+**April 24, 2026** Statistical Sciences Research Day 2026. See this year's program and more information about the event [here](https://sgsu-uoft.github.io/ResearchDay2026).
 
 **September 16, 2025:** Luis Sierra Muntané has been elected President of the SGSU for the 2025-26 academic year. Luis begins his term immediately.
 
@@ -56,6 +58,10 @@ The first edition of the [SGSU Chess Tournament](chess.html) has officially conc
 **April 11, 2022:** The 12th annual Statistics Student Research Day will be held this year on May 25th, 2022. For information about the event, click [here](https://sgsu-uoft.github.io/ResearchDay2022/).
 
 ## Some past events
+
+**November 3, 2026 1:30pm** Pancake Day
+
+**October 23, 2026 7:00pm** Halloween Movie Night
 
 **February 11, 2026** Pub Night at 17:30pm at W Burger Bar!
 
